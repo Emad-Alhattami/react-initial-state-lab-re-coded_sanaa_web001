@@ -1,7 +1,7 @@
 // your Bomb code here!import React from 'react';
 class Bomb extends React.Component {
   constructor(props) {
-    super() 
+    super()
 
     this.state = {
       secondsLeft: props.initialCount
@@ -23,7 +23,7 @@ import React from 'react';
 class Bomb extends React.Component {
 
   constructor(props) {
-    super() 
+    super()
 
     this.state = {
       secondsLeft: props.initialCount
